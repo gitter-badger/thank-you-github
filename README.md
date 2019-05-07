@@ -1,3 +1,6 @@
+
+[![Join the chat at https://gitter.im/thank-you-github-naveen/community](https://badges.gitter.im/thank-you-github-naveen/community.svg)](https://gitter.im/thank-you-github-naveen/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
